@@ -1,2 +1,2 @@
 # Suma
-segundo programa la suma de números enteros
+números enteros
